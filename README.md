@@ -1,1 +1,1 @@
-# Implementing Bag of Words(BoW)
+# Implementing Bag of Words(BoW) in Python
